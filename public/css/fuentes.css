@@ -1,0 +1,24 @@
+
+.widgets{ /*NOMBRE DE LA CLASE */
+    text-align: rights; /* UBICACION DE POSICION DEL TEXTO */
+    color: black; /* COLOR DE TEXTO */
+    font-weight: bold; /* SOBREAR TEXTO */
+    text-decoration: underline;  /* SURRAYAR TEXTO */
+    /* text-decoration-thickness: 1px;*/ /* DE QUE GROSOR SERA EL SURRAYADO */
+}
+
+.textjustificado{
+    text-align: justify;
+}
+
+.subtexto{
+    color: black;
+    font-size: 20px; /* TAMAÑO DE LA LETRA */
+    font-weight: bold; /* SOBREAR TEXTO */
+    
+}
+
+.interlineado{
+    line-height: 1.8; /* INTERLINEADO ENTRE RENGLONES */
+
+}
